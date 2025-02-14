@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4b548716f8470bcc",
+        "id": "58df0415fe8d241c",
         "type": "tabs",
         "children": [
           {
-            "id": "8c4dd0b129984ded",
+            "id": "ee2948d1137adbb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS Three Easy Pieces/Virtualization/1- The Abstraction - The Process/Notes.md",
-                "mode": "source",
+                "file": "OS Three Easy Pieces/Virtualization/CPU Virtualization/3- CPU virtualization mechanism/Notes.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -162,14 +163,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2e3f3bfaa330015",
+  "active": "ee2948d1137adbb7",
   "lastOpenFiles": [
-    "OS Three Easy Pieces/Virtualization/1- The Abstraction - The Process/Process States.png",
-    "OS Three Easy Pieces/Virtualization/1- The Abstraction - The Process/Loading From Program To Process.png",
+    "OS Three Easy Pieces/Virtualization/CPU Virtualization/1- The Abstraction - The Process/Notes.md",
+    "OS Three Easy Pieces/Virtualization/CPU Virtualization/3- CPU virtualization mechanism/Notes.md",
+    "OS Three Easy Pieces/Virtualization/CPU Virtualization/3- CPU virtualization mechanism/Limited Direct Execution Protocol (Timer Interrupt).png",
+    "OS Three Easy Pieces/Virtualization/CPU Virtualization/2- How the Unix Shell work (Process API)/Notes.md",
+    "OS Three Easy Pieces/Virtualization/CPU Virtualization/3- CPU virtualization mechanism",
+    "OS Three Easy Pieces/Virtualization/Memory Virtualization",
+    "OS Three Easy Pieces/Virtualization/CPU Virtualization",
+    "Notes",
+    "OS Three Easy Pieces/Virtualization/CPU Virtualization/2- How the Unix Shell work (Process API)",
+    "OS Three Easy Pieces/Virtualization/CPU Virtualization/1- The Abstraction - The Process/Process States.png",
+    "OS Three Easy Pieces/Virtualization/CPU Virtualization/1- The Abstraction - The Process/Loading From Program To Process.png",
     "OS Three Easy Pieces/Intro.md",
-    "OS Three Easy Pieces/Virtualization/1- The Abstraction - The Process/Notes.md",
     "S.md",
-    "OS Three Easy Pieces/Virtualization/1- The Abstraction - The Process",
+    "OS Three Easy Pieces/Virtualization/CPU Virtualization/1- The Abstraction - The Process",
     "Persistence",
     "Concurrency",
     "Virtualization",

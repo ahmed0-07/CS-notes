@@ -6,7 +6,7 @@ The program itself is a lifeless thing: it just sits there on the disk, a bunch 
 
 >How OS runs many processes at one time?
 
-The OS creates the illusion of by virtualizing the CPU. By running one process, then stopping it and running another, and so forth, the OS can promote the illusion that many virtual CPUs exist when in fact there is only one physical CPU (or a few).
+The OS creates this illusion of by virtualizing the CPU. By running one process, then stopping it and running another, and so forth, the OS can promote the illusion that many virtual CPUs exist when in fact there is only one physical CPU (or a few).
 
 This basic technique, known as **time sharing** of the CPU, allows users to run as many concurrent processes as they would like; the potential cost is performance, as each will run more slowly if the CPU(s) must be shared.
 
